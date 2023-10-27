@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CBall.h" />
+    <ClInclude Include="CHLimiter.h" />
+    <ClInclude Include="CVLimiter.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="lab2.h" />
     <ClInclude Include="Resource.h" />
@@ -135,6 +137,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CBall.cpp" />
+    <ClCompile Include="CHLimiter.cpp" />
+    <ClCompile Include="CVLimiter.cpp" />
     <ClCompile Include="lab2.cpp" />
   </ItemGroup>
   <ItemGroup>
