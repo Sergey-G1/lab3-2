@@ -1,0 +1,9 @@
+﻿  CBall.cpp
+C:\Users\User\source\repos\lab2\lab2\CBall.cpp(22,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\lab2\lab2\CBall.cpp(22,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\lab2\lab2\CBall.cpp(22,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\lab2\lab2\CBall.cpp(22,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  CHLimiter.cpp
+  lab2.cpp
+  Создание кода...
+  lab2.vcxproj -> C:\Users\User\source\repos\lab2\Debug\lab2.exe
